@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@trpc/client": "https://cdn.skypack.dev/@trpc/client@10.25.1?dts",
+    "@trpc/server": "https://cdn.skypack.dev/@trpc/server@10.25.1?dts",
+    "@trpc/server/": "https://cdn.skypack.dev/@trpc/server@10.25.1?dts/"
+  }
+}
